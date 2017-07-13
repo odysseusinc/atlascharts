@@ -1,6 +1,6 @@
 {
   "name": "atlascharts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A D3-based library for creating charts",
   "main": "index.js",
   "scripts": {
